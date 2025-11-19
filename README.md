@@ -1,10 +1,3 @@
-
-
-
-- 🔭 I’m currently working on Backend in Go
-- 🌱 I’m currently learning Go
-
-
 <h1 align="left">Hi there 👋</h1>
 
 ###
