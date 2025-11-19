@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025 <p/>
+<p align="left">✨ Creating bugs since 2024 <p/>
 
 ###
 
