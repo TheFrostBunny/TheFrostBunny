@@ -28,10 +28,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 </div>
-
-
-<h2>GitHub stats</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheFrostBunny&show_icons=true&theme=tokyonight" />
-</p>
