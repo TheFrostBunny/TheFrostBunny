@@ -10,4 +10,4 @@
   ✨ Creating bugs since 2024 <br />
   🚀 Passionate about learning new technologies<br/>
   🧠 Always exploring better ways to write clean, efficient code
-<p/>
+</p>
